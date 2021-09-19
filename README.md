@@ -1,5 +1,5 @@
 # B31l
-`<https://B31l.github.io>`
+**[My Github Blog](https://B31l.github.io)**
 ### ❤GitHub
 - https://github.com/B31l/B31l
 - https://github.com/B31l/B31l.github.io
